@@ -1,0 +1,57 @@
+Added Component: Designator=C1(C0603)
+Added Component: Designator=C2(C0603)
+Added Component: Designator=C3(C0402)
+Added Component: Designator=C4(C0402)
+Added Component: Designator=C5(C0402)
+Added Component: Designator=J_485(PH4)
+Added Component: Designator=J_USB(PH4)
+Added Component: Designator=U1(MSOP10)
+Added Component: Designator=U2(MSOP8)
+Added Pin To Net: NetName=485_N Pin=J_485-2
+Added Pin To Net: NetName=485_N Pin=U2-7
+Added Net: Name=485_N
+Added Pin To Net: NetName=485_P Pin=J_485-3
+Added Pin To Net: NetName=485_P Pin=U2-6
+Added Net: Name=485_P
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=J_485-4
+Added Pin To Net: NetName=GND Pin=J_USB-4
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-10
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=RXD Pin=U1-9
+Added Pin To Net: NetName=RXD Pin=U2-1
+Added Net: Name=RXD
+Added Pin To Net: NetName=RXW_485 Pin=U1-6
+Added Pin To Net: NetName=RXW_485 Pin=U2-2
+Added Pin To Net: NetName=RXW_485 Pin=U2-3
+Added Net: Name=RXW_485
+Added Pin To Net: NetName=TXD Pin=U1-8
+Added Pin To Net: NetName=TXD Pin=U2-4
+Added Net: Name=TXD
+Added Pin To Net: NetName=USB_N Pin=J_USB-3
+Added Pin To Net: NetName=USB_N Pin=U1-2
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=J_USB-2
+Added Pin To Net: NetName=USB_P Pin=U1-1
+Added Net: Name=USB_P
+Added Pin To Net: NetName=VCC5V Pin=C1-1
+Added Pin To Net: NetName=VCC5V Pin=C2-1
+Added Pin To Net: NetName=VCC5V Pin=C3-1
+Added Pin To Net: NetName=VCC5V Pin=C4-1
+Added Pin To Net: NetName=VCC5V Pin=J_485-1
+Added Pin To Net: NetName=VCC5V Pin=J_USB-1
+Added Pin To Net: NetName=VCC5V Pin=U1-7
+Added Pin To Net: NetName=VCC5V Pin=U2-8
+Added Net: Name=VCC5V
+Added Class: Name=USBtoRS485
+Added Differential Pair: Name=485
+Added Differential Pair: Name=USB
+Added Room: Name=USBtoRS485

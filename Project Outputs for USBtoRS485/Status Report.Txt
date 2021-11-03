@@ -1,0 +1,10 @@
+Output: Protel
+Type  : ProtelNetlist
+From  : Project [USBtoRS485.PrjPcb]
+   Generated File[USBtoRS485.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:58:07 PM On 11/2/2021
